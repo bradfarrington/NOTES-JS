@@ -53,5 +53,7 @@
 .input-box img{
     width: 25px;
     position: absolute;
-    bor
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
 }
